@@ -1,4 +1,4 @@
-
+//Prints out the smallest of three entered numbers.
 package Numbers;
 
 import java.util.Scanner;

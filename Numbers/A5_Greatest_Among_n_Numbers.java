@@ -1,4 +1,4 @@
-
+//Prints out the largest number from n entered number.
 package Numbers;
 
 import java.util.Scanner;

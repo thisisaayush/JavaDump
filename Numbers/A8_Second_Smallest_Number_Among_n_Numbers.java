@@ -1,7 +1,7 @@
 /*
  * author: aayush thakuri
  * date: 5-28-2020
- *
+ *Prints out the second smallest number from n entered number.
  * */
 package Numbers;
 

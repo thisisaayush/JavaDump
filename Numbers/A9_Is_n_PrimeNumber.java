@@ -1,7 +1,7 @@
 /*
  * author: aayush thakuri
  * date: 5-28-2020
- *
+ * Checks whether the entered number is prime number or not.
  * */
 package Numbers;
 

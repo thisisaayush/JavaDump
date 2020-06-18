@@ -1,5 +1,4 @@
-
-
+//Prints out the second greatest number of n entered number.
 package Numbers;
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-//This code prints out largest number between two entered number.
+//This code prints out largest number between two entered number or else prints out equal value.
 package Numbers;
 
 import java.util.Scanner;

@@ -1,7 +1,6 @@
+//This codes ask user to input element at given rows and columns.
 package Array2D;
-
 import java.util.Scanner;
-
 public class A3_User_Input {
     private static Scanner scanner = new Scanner( System.in );
 

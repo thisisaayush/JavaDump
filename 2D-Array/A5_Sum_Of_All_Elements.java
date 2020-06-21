@@ -1,5 +1,5 @@
+//This codes prints out the sum of all int elements of 2D Array.
 package Array2D;
-
 public class A5_Sum_Of_All_Elements {
     public static void main(String[] args) {
         int[][] array = {{1,2,3},{4,5,6},{7,8,9}};

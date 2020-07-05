@@ -3,6 +3,7 @@
  * date: 5-28-2020
  *
  * */
+//This program prints out the largest digit of a given number.
 package Numbers;
 
 import java.util.Scanner;

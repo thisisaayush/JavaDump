@@ -3,7 +3,8 @@
  * date: 5-28-2020
  *
  * */
-//This is also one way to reverse a number.
+//This program can also be used to reverse a number.
+//This program prints out the each digit of a number.
 package Numbers;
 import java.util.Scanner;
 

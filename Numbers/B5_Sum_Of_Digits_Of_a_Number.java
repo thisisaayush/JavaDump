@@ -3,6 +3,7 @@
  * date: 5-28-2020
  *
  * */
+//This program sum up all the digit of a number and returns the final sum value.
 package Numbers;
 
 import java.util.Scanner;

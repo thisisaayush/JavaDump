@@ -4,6 +4,7 @@
  *
  * */
 //Doesn't work in a number that has largest digits repeated.
+//This program prints out the largest and second largest digits of a given number.
 package Numbers;
 
 import java.util.Scanner;

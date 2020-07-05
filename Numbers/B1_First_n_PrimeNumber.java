@@ -3,6 +3,7 @@
  * date: 5-28-2020
  *
  * */
+//This program prints the prime numbers upto the given range.
 package Numbers;
 
 import java.util.Scanner;

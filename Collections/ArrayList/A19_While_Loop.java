@@ -2,6 +2,7 @@ package Collections.ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+//This program is simple demonstration of using while loop in an arraylist.
 
 public class A19_While_Loop {
     public static void main(String[] args) {

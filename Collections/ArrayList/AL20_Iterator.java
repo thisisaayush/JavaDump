@@ -3,6 +3,7 @@ package Collections.ArrayList;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
+//This program is an simple demonstration of using iterator in a string arraylist.
 
 public class AL20_Iterator {
     public static void main(String[] args) {

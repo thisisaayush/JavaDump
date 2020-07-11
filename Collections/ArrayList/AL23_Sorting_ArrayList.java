@@ -3,6 +3,7 @@ package Collections.ArrayList;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+//This program demonstrates the use of sort and reverse method of collections class to sort array in ascending and descending order.
 
 public class AL23_Sorting_ArrayList {
     public static void main(String[] args) {

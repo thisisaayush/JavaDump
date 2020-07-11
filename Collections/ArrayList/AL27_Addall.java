@@ -2,6 +2,7 @@ package Collections.ArrayList;
 
 import java.util.ArrayList;
 import java.util.Collections;
+//This programs demonstrates how one arraylist elements can be added to another arraylist of sametype.
 
 public class AL27_Addall {
     public static void main(String[] args) {

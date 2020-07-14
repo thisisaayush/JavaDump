@@ -1,5 +1,5 @@
 package Recursion;
-
+//This program prints out the string length using recursion method.
 public class R11_String_Length {
     static int len = 0;
     public static void main(String[] args) {

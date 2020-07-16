@@ -1,5 +1,5 @@
 package Recursion;
-
+//The program retuns the factorial of a number.
 public class R2_Factorial {
     public static void main(String[] args) {
         System.out.println(factorial( 5 ));

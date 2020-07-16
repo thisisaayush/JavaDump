@@ -1,5 +1,5 @@
 package Recursion;
-
+//The program returns the fibonacci series of a number.
 public class R6_Fibonacci {
     static int x = 0;
     static int y = 1;
@@ -23,7 +23,7 @@ public class R6_Fibonacci {
             count++;
         }
     }
-
+    //my way demands for loop.
     public static int fibonacciSeries(int num) {
         if (num == 0) {
             return 0;

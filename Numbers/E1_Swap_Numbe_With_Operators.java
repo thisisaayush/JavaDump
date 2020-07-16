@@ -1,7 +1,7 @@
 package Numbers;
 
 import java.util.Scanner;
-
+//This programs swaps the number place.
 public class E1_Swap_Numbe_With_Operators {
     private static Scanner scanner = new Scanner( System.in );
 

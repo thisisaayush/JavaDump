@@ -1,5 +1,5 @@
 package Recursion;
-
+//The program returns the product of all digits of a given number.
 public class R9_Product_Of_Digit {
     static int product = 1;
     public static void main(String[] args) {

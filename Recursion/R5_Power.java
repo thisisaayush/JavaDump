@@ -1,5 +1,5 @@
 package Recursion;
-
+//The program returns the power of a number.
 public class R5_Power {
     public static void main(String[] args) {
         System.out.println(Power( 10,4 ));

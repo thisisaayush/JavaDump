@@ -1,5 +1,5 @@
 package Recursion;
-
+//The programs returns the sum of all digit of a given number.
 public class R8_Sum_Of_Digits {
     static int sum = 0;
     public static void main(String[] args) {

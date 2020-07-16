@@ -1,5 +1,5 @@
 package Recursion;
-
+//The programs returns the LCM of two numbers.
 public class R4_LCM {
     public static int i = 1;
     public static void main(String[] args) {

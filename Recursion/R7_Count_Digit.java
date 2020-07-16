@@ -1,5 +1,5 @@
 package Recursion;
-
+//The program returns the total digit in a given number.
 public class R7_Count_Digit {
     static int count = 0;
     public static void main(String[] args) {

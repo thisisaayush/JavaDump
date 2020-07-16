@@ -1,7 +1,7 @@
 package Numbers;
 
 import java.util.Scanner;
-//The program checks whether the input number is prime number or not.
+//The program prints out the last prime number for a given limit.
 public class D7_Last_Prime_Number {
     private static Scanner scanner = new Scanner( System.in );
 

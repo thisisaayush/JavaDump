@@ -1,7 +1,7 @@
 package Numbers;
 
 import java.util.Scanner;
-
+//This program prints out the factorial of a given positive number using for loop.
 public class E2_Factorial_Using_Loop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner( System.in );

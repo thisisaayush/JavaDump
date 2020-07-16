@@ -1,5 +1,5 @@
 package Recursion;
-
+//The program returns the greatest common divisor of two input numbers.
 public class R3_GCD {
     public static void main(String[] args) {
         System.out.println(GCD( 10,5 ));

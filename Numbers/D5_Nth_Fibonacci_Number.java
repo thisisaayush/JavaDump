@@ -1,7 +1,7 @@
 package Numbers;
 
 import java.util.Scanner;
-
+//The program prints out the nth value of a fibonacci series.
 public class D5_Nth_Fibonacci_Number {
     private static Scanner scanner = new Scanner( System.in );
 

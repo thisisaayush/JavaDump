@@ -1,5 +1,5 @@
 package Array2D;
-
+//The program prints out the smallest element from a 2D int array.
 public class A8_Smallest_Element {
     public static void main(String[] args) {
         int[][] array = {{1,2,3},{-2,3,7},{11,44,53}};

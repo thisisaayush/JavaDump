@@ -1,5 +1,5 @@
 package Array2D;
-
+//This program prints out the element from a 2D int array.
 public class A7_Greatest_Element {
     public static void main(String[] args) {
         int[][] array = {{1,2,3},{11,22,33},{6,7,8}};

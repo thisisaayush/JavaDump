@@ -1,5 +1,5 @@
 package Array2D;
-
+//This program prints the total elements in a 2D int array, sum of all elements, and average of all elements.
 public class A6_Average{
     public static void main(String[] args) {
         int[][] array = {{1,2,3} , {4,5,6} , {7,8,9}};

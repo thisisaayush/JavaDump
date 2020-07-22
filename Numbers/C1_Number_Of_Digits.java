@@ -4,7 +4,7 @@
  *
  * */
 package Numbers;
-
+//This program prints out the total number of digits of a given number.
 import java.util.Scanner;
 
 public class C1_Number_Of_Digits {

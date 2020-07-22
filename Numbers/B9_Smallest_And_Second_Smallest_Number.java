@@ -4,7 +4,7 @@
  *
  * */
 package Numbers;
-
+//This program prints out the smallest and second smallest digits from the given number.
 import java.util.Scanner;
 
 public class B9_Smallest_And_Second_Smallest_Number {

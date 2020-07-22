@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-
+//This program demonstrate the use of TreeMap class.
 public class TM_104 {
     public static void main(String[] args) {
         TreeMap<Integer,String> treeMap = new TreeMap<>(  );

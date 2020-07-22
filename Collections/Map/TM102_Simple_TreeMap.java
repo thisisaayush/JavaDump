@@ -1,7 +1,7 @@
 package Collections.Map;
 
 import java.util.TreeMap;
-
+//This program demonstrate the use of TreeMap class.
 public class TM102_Simple_TreeMap {
     public static void main(String[] args) {
         TreeMap treeMap = new TreeMap(  );

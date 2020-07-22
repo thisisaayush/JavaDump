@@ -3,7 +3,7 @@ package Collections.Map;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
-
+//This program demonstrate the use of HashMap class and also convert HashMap to TreeMap.
 public class HM96_Sort {
     public static void main(String[] args) {
         HashMap<Integer,String> hashMap = new HashMap<>(  );

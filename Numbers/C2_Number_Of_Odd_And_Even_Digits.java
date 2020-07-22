@@ -4,7 +4,7 @@
  *
  * */
 package Numbers;
-
+//This program prints out the total number of even and odd digits in a given number.
 import java.util.Scanner;
 
 public class C2_Number_Of_Odd_And_Even_Digits {

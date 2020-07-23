@@ -4,7 +4,7 @@
  *
  * */
 package Numbers;
-
+//This program counts the number of times the specific number is repeated and prints out the frequency. 
 import java.util.Scanner;
 
 public class C6_Frequency_Of_Specific_Digit {

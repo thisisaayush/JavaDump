@@ -4,7 +4,7 @@
  *
  * */
 package Numbers;
-
+//This program prints out whether the specific digit is in the given number or not.
 import java.util.Scanner;
 
 public class C3_Specific_Digit {

@@ -4,7 +4,7 @@
  *
  * */
 package Numbers;
-
+//This program checks whether the given number is palindrome number or not.
 import java.util.Scanner;
 
 public class C5_PalindromeNumber {

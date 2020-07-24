@@ -1,5 +1,5 @@
 package Array;
-//The program prints out the int array in descending array.
+//The program prints out the int array in descending order.
 public class A21_Descending_Order {
     public static void main(String[] args) {
         int[] array = {3,1,4,6,9,5,15,11,19,18};

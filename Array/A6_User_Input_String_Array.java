@@ -1,7 +1,7 @@
 package Array;
 
 import java.util.Scanner;
-
+//The program ask the user to input the string array and prints it out.
 public class A6_User_Input_String_Array {
     public static void main(String[] args) {
      Scanner scanner = new Scanner( System.in );

@@ -1,5 +1,5 @@
 package Array;
-
+//The program prints out the array in ascending order.
 public class A20_Ascending_Order {
     public static void main(String[] args) {
         int[] array = {1,4,6,8,3,7,11,24,12,21};

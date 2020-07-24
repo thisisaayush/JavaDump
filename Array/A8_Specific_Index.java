@@ -1,6 +1,6 @@
 //Print the value stored in an array for a given index.
 package Array;
-
+//The program prints out the element of a given index.
 import java.util.Scanner;
 
 public class A8_Specific_Index {

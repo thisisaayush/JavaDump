@@ -1,7 +1,7 @@
 package Array2D;
 
 import java.util.Scanner;
-
+//This program count the frequency of a given element in a given int 2D array.
 public class A15_Count_Key {
     public static void main(String[] args) {
         int[][] array = {{1,2,3},{-2,3,7},{11,44,53}};

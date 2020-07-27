@@ -1,5 +1,5 @@
 package Array2D;
-
+//This program prints out the sum of all elements of each column of a given int 2D array. 
 public class A10_Sum_Of_Each_Column {
     public static void main(String[] args) {
         int[][] array = {{1,3,4},{3,5,7},{6,9,8}};

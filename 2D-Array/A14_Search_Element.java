@@ -1,5 +1,5 @@
 package Array2D;
-
+//This program search whether the element is in the 2D array or not.
 import java.util.Scanner;
 
 public class A14_Search_Element {

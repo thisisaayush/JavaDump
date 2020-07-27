@@ -1,6 +1,7 @@
 package Array2D;
 //Sum of Major diagonal
 //Sum of Minor diagonal
+//This program prints out the sum of elements of major diagonal of a given int array.
 public class A11N12_Sum_Of_Diagonal {
     public static void main(String[] args) {
         int[][] array = {{1,2,3},{3,4,5},{6,7,8},{2,6,8}};

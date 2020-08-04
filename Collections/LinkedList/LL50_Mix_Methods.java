@@ -2,7 +2,7 @@ package Collections.LinkedList;
 
 import java.util.Arrays;
 import java.util.LinkedList;
-
+//Demonstration on using LinkedList class and related methods.
 public class LL50_Mix_Methods {
     public static void main(String[] args) {
         LinkedList<String> linkedList = new LinkedList<>( Arrays.asList("Ram", "Shyam", "Hari", "Krishna", "Shiva", "Hunuman", "Vishnu", "Brahma") );

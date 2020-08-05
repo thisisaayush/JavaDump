@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 //Note: HashMap doesn't maintain order. TreeMap maintains order.
+//This program give the idea about how to convert hashmap to set and gives the idea about the use of iterator.
 public class HM90_Iterate_Map {
     public static void main(String[] args) {
         HashMap<Integer,String > hashMap = new HashMap<>(  );

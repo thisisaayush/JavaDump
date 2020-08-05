@@ -1,7 +1,7 @@
 package Collections.Map;
 
 import java.util.HashMap;
-
+//The program demonstrate the basic use of HashMap, how to add and remove elements from it.
 public class HM94_Remove {
     public static void main(String[] args) {
         HashMap<Integer,String> hashMap = new HashMap<>(  );

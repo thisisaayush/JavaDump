@@ -1,7 +1,7 @@
 
 package Numbers;
 import java.util.Scanner;
-
+//This program is a simple demonstration of sum of two input numbers.
 public class A1_Sum_Two_Numbers {
     public static Scanner scanner = new Scanner( System.in );
     public static void main(String[] args) {

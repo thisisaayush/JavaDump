@@ -1,7 +1,8 @@
 package Numbers;
 
 import java.util.Scanner;
-//This program checks whether the input number is armstrong number or not.
+//This program checks whether the input number is armstrong number or not and for
+//that first it finds the length of number and sum its digit raised to its found length.
 public class E4_Armstrong_Number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner( System.in );

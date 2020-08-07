@@ -1,7 +1,7 @@
 package Numbers;
 
 import java.util.Scanner;
-//This program prints out the factorial of a given positive number.
+//This program prints out the factorial of a given positive number. It uses the concept of recursion.
 public class E3_Factorial_Using_Recursion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner( System.in );

@@ -1,7 +1,7 @@
 package Collections.Map;
 
 import java.util.HashMap;
-
+//The program demonstrate the use of HashMap.
 public class HM101_Copy_HashMap {
     public static void main(String[] args) {
         HashMap hashMap = new HashMap(  );

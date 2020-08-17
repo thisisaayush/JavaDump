@@ -1,5 +1,5 @@
 package Array;
-
+//The program revere the given int array.
 public class A19_Reverse_Array {
     public static void main(String[] args) {
         int array[] = {1,3,5,7,8,11,14};

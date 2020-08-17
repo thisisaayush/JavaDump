@@ -1,4 +1,4 @@
-//Print out the most occurring element along with the number of occurrence.
+//The program prints out the most occurring element along with the number of occurrence.
 package Array;
 public class A18_Most_Occuring_Element {
     public static void main(String[] args) {

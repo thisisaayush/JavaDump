@@ -1,4 +1,4 @@
-//Print out the frequency of all elements.
+//The program prints out the frequency of all elements.
 package Array;
 public class A17_Frequency_Of_All_Elements_ND {
     public static void main(String[] args) {

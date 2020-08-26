@@ -1,5 +1,7 @@
 package Pattern;
-//This program prints out the alphabetical chracters from a till j in horizontal manner but changing the rows for each new character.
+//This program prints out the alphabetical chracters from 'a' till 'j' but each horizontal character is same
+//For example: first rows has letter 'a', all charater of first row will be 'a'.
+//And each new row will have letter in alphabetical manner i.e; b,c,d,e,f,g,h,i, and j.
 public class Pattern9 {
     public static void main(String[] args) {
         for(int i = 1 ; i <= 10 ; i++){

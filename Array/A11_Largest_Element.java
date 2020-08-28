@@ -1,4 +1,4 @@
-//The program find the largest element in a given int array.
+//The program finds the largest element in a given int array.
 package Array;
 
 import java.util.Scanner;

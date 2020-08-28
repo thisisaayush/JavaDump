@@ -1,4 +1,4 @@
-//The program find the sum and average of all elements in a given array.
+//The program finds the sum and average of all elements in a given array.
 package Array;
 
 import java.util.Scanner;

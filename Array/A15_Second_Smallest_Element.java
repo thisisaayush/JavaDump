@@ -1,4 +1,4 @@
-//Find out the second smallest element in a given array.
+//The program finds out the second smallest element in a given array.
 package Array;
 
 import java.util.Scanner;

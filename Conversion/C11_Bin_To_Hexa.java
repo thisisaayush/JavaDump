@@ -1,5 +1,5 @@
 package Conversion;
-
+//The program converts binary number to hexa-decimal number.
 public class C11_Bin_To_Hexa {
     public static void main(String[] args) {
             double bin = 100001100010110d;

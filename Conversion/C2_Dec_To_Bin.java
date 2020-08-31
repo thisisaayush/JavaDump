@@ -1,5 +1,5 @@
 package Conversion;
-
+//The program converts decimal number to binary number.
 public class C2_Dec_To_Bin {
     public static void main(String[] args) {
         int dec = 1264;

@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program prints out number from 10 to 1 in 10 rows and 10 columns format.
+//Each row has same number starting from 10 and each new row will have a number in descending order. 
 public class Pattern6 {
     public static void main(String[] args) {
         for(int i = 10 ; i >= 1 ; i--){

@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program prints out alphabetical character of 10 rows and 10 columns. Each row has one alphabet and each new row will have 
+//alphabet in increasing order.
 public class Pattern7 {
     public static void main(String[] args) {
         for(int i = 1 ; i <= 10 ; i++){

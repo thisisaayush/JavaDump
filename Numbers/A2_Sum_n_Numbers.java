@@ -1,7 +1,7 @@
 package Numbers;
 
 import java.util.Scanner;
-
+//The program prints the sum of input.
 public class A2_Sum_n_Numbers {
     private static Scanner scanner = new Scanner( System.in );//Allows programer to use anywhere in the class.
     public static void main(String[] args) {

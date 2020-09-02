@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program has 10 rows and 10 columns.
+//It prints out number from 10 to 1 in reverse order in each row.
 public class Pattern5 {
     public static void main(String[] args) {
         for(int i = 1 ; i <= 10 ; i++){

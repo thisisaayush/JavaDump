@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program has 10 rows and 10 columns.
+//It prints out characters from j to a in each row.
 public class Patter14 {
     public static void main(String[] args) {
         for(int i = 1 ; i <= 10 ; i++){

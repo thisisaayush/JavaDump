@@ -1,7 +1,7 @@
 package Pattern;
 //The program prints out character from j to a.
 //Each row has same character. 
-
+//The program has 10 rows and 10 columns.
 public class Pattern12 {
     public static void main(String[] args) {
         for(int i = 10; i >= 1 ; i--){

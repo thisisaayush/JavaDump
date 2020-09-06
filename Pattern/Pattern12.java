@@ -1,4 +1,6 @@
 package Pattern;
+//The program prints out character from j to a.
+//Each row has same character. 
 
 public class Pattern12 {
     public static void main(String[] args) {

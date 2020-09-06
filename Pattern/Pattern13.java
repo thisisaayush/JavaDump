@@ -1,5 +1,5 @@
 package Pattern;
-
+//The program prints the characters from  A to J.
 public class Pattern13 {
     public static void main(String[] args) {
         for(int i = 1 ; i <= 10 ; i++ ){

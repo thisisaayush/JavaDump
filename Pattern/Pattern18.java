@@ -1,5 +1,5 @@
 package Pattern;
-
+//The program prints character from a to z. 
 public class Pattern18 {
     public static void main(String[] args) {
         char ch = 'a';

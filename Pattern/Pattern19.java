@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program prints out character from A to Z in alphabetical order.
+//Each row has max 5 columns and after at 5th column character jumps to new row.
 public class Pattern19 {
     public static void main(String[] args) {
         for(int i = 1 ; i <= 26 ; i++){

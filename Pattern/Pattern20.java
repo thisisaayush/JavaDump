@@ -1,5 +1,7 @@
 package Pattern;
-
+//The program prints out the characters from z to a in reverse order.
+//Each row has five columns where characters are printed and after the fifth 
+//column characters start to print in new row.
 public class Pattern20 {
     public static void main(String[] args) {
         char ch = 'z';

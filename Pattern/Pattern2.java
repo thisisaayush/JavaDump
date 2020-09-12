@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program prints out numbers from 1 to 10 in each row.
+//Each row has 10 columns and there are 10 rows.
 public class Pattern2 {
     public static void main(String[] args) {
         /*Note: In nested for loop- for 2  for loops- the second loop completes its cycle first every time for each

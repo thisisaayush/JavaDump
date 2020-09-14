@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program prints out the character Z to A in reverse format.
+//Each row has 5 columns. 
 public class Pattern21 {
     public static void main(String[] args) {
         char ch = 'Z';

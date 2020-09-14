@@ -1,5 +1,5 @@
 package Pattern;
-
+//The program prints the character '*'.
 public class Pattern44 {
     public static void main(String[] args) {
         char ch = '*';

@@ -1,5 +1,6 @@
 package Pattern;
-
+//The program has 10 rows and 10 columns.
+//Prints number from 2 to 200 in ascending order.
 public class Pattern23 {
     public static void main(String[] args) {
         int num = 0;

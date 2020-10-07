@@ -1,5 +1,5 @@
 package Pattern;
-
+//The program prints out character A to J. With each loop the column decreases by 1.
 public class Pattern43 {
     public static void main(String[] args) {
         for(char i = 'A' ; i <= 'J' ; i++){

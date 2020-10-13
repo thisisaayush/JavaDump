@@ -12,7 +12,8 @@ public class A3_Greatest_Number_2 {
         System.out.println("Enter your second number: ");
         int y = scanner.nextInt();
 
-        if(x > y){
+        if(x > y)//boolean comparison between x and y.
+        {
             System.out.println(x + " is greater than " + y + ".");
         }
         else if(y > x){

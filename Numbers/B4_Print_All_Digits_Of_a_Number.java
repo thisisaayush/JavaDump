@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class B4_Print_All_Digits_Of_a_Number {
     private static Scanner scanner = new Scanner( System.in );
     public static void main(String[] args) {
-        System.out.println("Enter the number: ");
+        System.out.println("Enter a number: ");//Ask user to enter a number:
         int n = scanner.nextInt();
         System.out.println("Number in digits: ");
         printDigit( n );
